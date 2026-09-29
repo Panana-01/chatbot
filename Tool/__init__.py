@@ -1,0 +1,1 @@
+from Tool.similarity_calculate import generate_corpus_vectors, generate_text_vectors, get_max_similarity

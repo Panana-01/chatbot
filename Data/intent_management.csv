@@ -1,0 +1,26 @@
+intent,example
+small_talk,hello
+question_answer,tell me about hci
+question_answer,bonds
+question_answer,stocks
+identity_management,my name is
+identity_management,call me
+identity_management,change my name to
+identity_management,forget my name
+discoverability,help
+discoverability,what can you do
+discoverability,show commands
+discoverability,how to use this chatbot
+kitchen_inventory,show my kitchen inventory
+kitchen_inventory,what do i have in my kitchen
+kitchen_inventory,list my kitchen items
+kitchen_inventory,add 2 eggs
+kitchen_inventory,add 1 bottle of milk
+kitchen_inventory,remove 1 egg
+kitchen_inventory,delete 2 apples
+kitchen_inventory,how many eggs do I have
+kitchen_inventory,add 2kg chicken breast
+kitchen_inventory,remove egg
+kitchen_inventory,chicken breast
+kitchen_inventory,steak
+kitchen_inventory,banana
